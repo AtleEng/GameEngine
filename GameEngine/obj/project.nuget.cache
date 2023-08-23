@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+NKox7lkt5Y0Unhmy5/S9d2unk+0J9qUjGPFPk51ps+LrwkvpKwhufSznMNC2I/jQT1wfnqkUvmAdRNTar1v/g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\atlee\\Documents\\GameDev\\Projects\\GameEngine\\GameEngine\\GameEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atlee\\.nuget\\packages\\raylib-cs\\4.5.0.4\\raylib-cs.4.5.0.4.nupkg.sha512",
+    "C:\\Users\\atlee\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
